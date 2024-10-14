@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Marvel Heroes</string>
+
+    <string name="char_name">Nama Character</string>
+    <string name="description">Deskripsi</string>
+    <string-array name="data_char">
+        <item>Spider-Man</item>
+        <item>Iron Man</item>
+        <item>Captain America</item>
+        <item>Thor</item>
+        <item>Hulk</item>
+        <item>Black Widow</item>
+        <item>Doctor Strange</item>
+        <item>Black Panther</item>
+        <item>Ant-Man</item>
+        <item>Scarlet Witch</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Spider-Man, yang sebenarnya adalah Peter Parker, adalah seorang remaja yang mendapatkan kekuatan super setelah digigit laba-laba radioaktif. Ia memiliki kemampuan untuk memanjat dinding, kekuatan luar biasa, dan indera yang sangat tajam. Selain berjuang melawan kejahatan, Spider-Man juga harus menghadapi tantangan kehidupan sehari-hari sebagai seorang pelajar. Dia terkenal dengan motto "Dengan besar kekuatan, datang tanggung jawab."</item>
+        <item>Iron Man adalah alter ego Tony Stark, seorang miliarder dan jenius teknologi yang menciptakan baju besi canggih untuk melawan musuh. Setelah diculik dan mengalami pengalaman mendalam di Afghanistan, Tony merancang baju besi pertamanya untuk melarikan diri dan akhirnya memutuskan untuk menggunakan teknologi untuk melakukan kebaikan. Dia adalah anggota pendiri Avengers dan terkenal dengan kecerdasannya dan sifat humorisnya.</item>
+        <item>Captain America adalah identitas superhero dari Steve Rogers, seorang prajurit yang dipilih untuk menerima serum super yang memberinya kekuatan fisik yang luar biasa. Dikenal sebagai simbol harapan dan keadilan, ia berjuang melawan kekuatan Axis selama Perang Dunia II dan menjadi pemimpin dalam tim Avengers. Dengan perisainya yang ikonik, Captain America adalah contoh kepemimpinan dan keberanian dalam menghadapi kejahatan.</item>
+        <item>Thor adalah Dewa Petir dan putra Odin, raja Asgard. Dia dikenal karena kekuatannya yang luar biasa dan palu magisnya, Mjolnir, yang memberinya kemampuan untuk terbang dan mengendalikan petir. Setelah berbagai petualangan, Thor belajar arti dari tanggung jawab dan pengorbanan. Dia adalah anggota utama Avengers dan sering berjuang untuk melindungi Bumi serta Asgard dari ancaman.</item>
+        <item>Hulk adalah alter ego dari Bruce Banner, seorang ilmuwan yang terpapar radiasi gamma saat eksperimen yang gagal. Ketika Banner mengalami emosi kuat, terutama kemarahan, ia berubah menjadi Hulk, makhluk raksasa dengan kekuatan luar biasa. Meski terkadang menjadi ancaman, Hulk juga melindungi yang tidak bersalah dan berjuang untuk menemukan tempatnya di dunia, serta memahami identitasnya.</item>
+        <item>Black Widow, atau Natasha Romanoff, adalah mantan mata-mata KGB dan anggota Avengers. Dikenal karena keterampilan bertarungnya yang luar biasa dan kecerdasan strategisnya, dia sering beroperasi dalam misi rahasia. Meskipun masa lalunya kelam, dia berjuang untuk melakukan yang benar dan menggunakan kemampuannya untuk melindungi dunia dari ancaman. Black Widow menjadi salah satu pahlawan wanita yang ikonik dalam Marvel Universe.</item>
+        <item>Doctor Strange, yang sebenarnya bernama Stephen Strange, adalah seorang ahli bedah yang mengalami kecelakaan tragis yang merusak tangannya. Dalam pencariannya untuk menyembuhkan dirinya, ia menemukan dunia sihir dan akhirnya menjadi Sorcerer Supreme. Dengan kemampuan untuk mengendalikan sihir dan waktu, ia melindungi Bumi dari ancaman magis, dan sering kali berkolaborasi dengan superhero lainnya untuk melawan kekuatan jahat.</item>
+        <item>T\'Challa, raja Wakanda, dikenal sebagai Black Panther, memiliki kemampuan fisik dan ketangkasan yang ditingkatkan, serta suit berbahan Vibranium yang membuatnya hampir tak terkalahkan. Dia adalah pemimpin yang bijaksana dan berani, berjuang untuk melindungi negaranya dan dunia dari ancaman. Black Panther juga menjadi simbol kebangkitan dan kekuatan, serta terkenal karena tekadnya untuk melindungi warisan dan budaya Wakanda.</item>
+        <item>Ant-Man adalah identitas superhero yang dimiliki oleh Scott Lang, seorang mantan pencuri yang mendapatkan kemampuan untuk mengecil dan membesar melalui kostum yang diciptakan oleh Hank Pym. Dengan kemampuan untuk berkomunikasi dan mengendalikan semut, Ant-Man menggunakan kekuatannya untuk melawan kejahatan, sering kali dengan pendekatan unik yang menggabungkan kecerdasan dan humor dalam petualangan.</item>
+        <item>Wanda Maximoff, dikenal sebagai Scarlet Witch, memiliki kemampuan untuk mengubah realitas dan menggunakan sihir. Awalnya diperkenalkan sebagai musuh Avengers, dia kemudian bergabung dengan tim sebagai anggota penting. Kekuatan luar biasanya sering kali dihadapkan pada tantangan emosional, menjadikannya karakter yang kompleks dengan hubungan yang mendalam dengan Vision dan anggota lainnya.</item>
+    </string-array>
+    <string-array name="data_photo">
+        <item>https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/amazing_spider_man_vol_2_50_textless.jpg</item>
+        <item>https://i.pinimg.com/736x/95/d9/20/95d920ade2a64eef837561dc3ddc0314.jpg</item>
+        <item>https://i.pinimg.com/564x/c7/3d/32/c73d3247fc663086cd96a57429ca5630.jpg</item>
+        <item>https://i.pinimg.com/736x/10/06/3a/10063a4a5c34d389abc520190bde771f.jpg</item>
+        <item>https://blackdragoncomics.com/cdn/shop/files/202312-0000440218.jpg</item>
+        <item>https://i.ebayimg.com/images/g/F0AAAOSwOJhgMRJi/s-l1200.jpg</item>
+        <item>https://comicvine.gamespot.com/a/uploads/scale_medium/12/124259/8753901-ezgif-3-69b95d2d1b.jpg</item>
+        <item>https://i.pinimg.com/736x/2b/22/0a/2b220ad838ecdc3056d2847726fae843.jpg</item>
+        <item>https://www.panicposters.com/cdn/shop/products/pp35157-ant-man-poster.jpg</item>
+        <item>https://www.superherotoystore.com/cdn/shop/articles/Scarlet_WItch_680x.jpg</item>
+    </string-array>
+    <string name="about">About Me</string>
+    <string name="name">Oditya Ridho Darmanto</string>
+    <string name="email">oditya.darmanto@binus.ac.id</string>
+    <string name="about_me">About Me</string>
+    <string name="share">Share</string>
+</resources>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DetailActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp"> <!-- Added padding for better spacing -->
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/image_character"
+                android:layout_width="match_parent"
+                android:layout_height="400dp"
+                android:adjustViewBounds="true"
+                android:scaleType="centerCrop" />
+
+            <TextView
+                android:id="@+id/tv_character_name"
+                style="@style/TextContent.BodyMedium.White.MarrginAll"
+                android:layout_gravity="bottom"
+                android:background="@color/black"
+                android:gravity="center_vertical"
+                android:padding="8dp" />
+        </FrameLayout>
+
+        <TextView
+            style="@style/TextContent.TitleMedium.Bold.MarginLeftRight"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="8dp"
+            android:text="@string/description"
+            android:textSize="18sp"/>
+
+        <TextView
+            style="@style/TextContent.BodyMedium.Gray.MarginLeftRight"
+            android:id="@+id/tv_character_description"
+            android:layout_marginBottom="16dp"
+            android:lineSpacingMultiplier="1"/>
+
+    </LinearLayout>
+</ScrollView>
