@@ -20,7 +20,8 @@ class ListCharacterAdapter(
     }
 
     override fun onCreateViewHolder(viewGroup: ViewGroup, viewType: Int): ListViewHolder {
-        val binding = ItemRowCharBinding.inflate(LayoutInflater.from(viewGroup.context), viewGroup, false)
+        val binding =
+            ItemRowCharBinding.inflate(LayoutInflater.from(viewGroup.context), viewGroup, false)
         return ListViewHolder(binding)
     }
 
@@ -28,7 +29,8 @@ class ListCharacterAdapter(
 
     override fun onBindViewHolder(holder: ListViewHolder, position: Int) {
         val character = listCharacter[position]
-        Glide.with(holder.itemView.context).load(character.photo).into(holder.binding.imageItemPhoto)
+        Glide.with(holder.itemView.context).load(character.photo)
+            .into(holder.binding.imageItemPhoto)
         holder.binding.tvItemName.text = character.name
         holder.binding.tvItemDescription.text = character.description
 
